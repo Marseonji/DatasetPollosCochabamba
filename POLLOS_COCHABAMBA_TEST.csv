@@ -1,0 +1,16 @@
+IDCliente;Nombre;Genero;Edad;GradoAca;EstadoCIivil;PolloGusto;Guarniciones;Salsas
+23;Ricardo Calliconde;Masculino;55;Profesional;Soltero;NO;Papas, Postre o platanitos, Arroz;Mayonesa, Llajua
+24;cisco;Masculino;23;Universitario;Soltero;SI;Arroz;Llajua
+25;Monica;Femenino;25;Profesional;Soltero;SI;Postre o platanitos, Arroz;Mayonesa, Ketchup, Mostaza, Llajua
+26;ernesto;Masculino;26;Universitario;Soltero;SI;Papas, Postre o platanitos;Mayonesa, Ketchup, Llajua
+27;;Masculino;30;Profesional;Soltero;SI;Papas, Postre o platanitos, Arroz;Mayonesa, Ketchup, Mostaza, Llajua
+28;Jousef Chavarria;Masculino;19;Bachiller;Soltero;SI;Papas, Fideo;Mayonesa, Ketchup
+29;Brian Velasco ;Masculino;24;Universitario;Casado;SI;Papas, Postre o platanitos, Arroz;Mayonesa, Ketchup, Llajua
+30;Ariel ;Masculino;19;Universitario;Soltero;SI;Fideo;Mayonesa, Ketchup, Llajua
+31;Sol;Femenino;30;Universitario;Divorciado;SI;Papas;Llajua
+32;Mayra;Femenino;34;Profesional;Soltero;SI;Papas, Postre o platanitos, Arroz;Mayonesa, Ketchup, Mostaza, Llajua
+33;Pedro Abraham;Masculino;24;Universitario;Soltero;SI;Papas, Postre o platanitos, Arroz;Mayonesa, Ketchup, Mostaza, Llajua
+34;Henrry Hilaya;Masculino;25;Profesional;Soltero;SI;Papas, Postre o platanitos, Arroz, Fideo;Mayonesa, Ketchup, Mostaza, Llajua
+35;;Femenino;25;Universitario;En una relacion;SI;Papas, Postre o platanitos, Arroz, Fideo;Mayonesa, Ketchup, Llajua
+36;Mayber ;Masculino;24;Universitario;En una relacion;SI;Papas;Mayonesa, Llajua
+37;Dalih Molina;Femenino;22;Universitario;En una relacion;SI;Papas;Mayonesa, Ketchup, Mostaza, Llajua
